@@ -1,0 +1,23 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.ilk
+*.pdb
+*.log
+patient_array
+patient_linkedlist
+build/
+bin/
+x64/
+Debug/
+Release/
+.vs/
+.vscode/
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
